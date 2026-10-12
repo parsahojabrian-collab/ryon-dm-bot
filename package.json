@@ -1,0 +1,11 @@
+{
+  "name": "tryon-dm-bot",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "ID_THAT_APPEARS_AS_entry.id_IN_THE_WEBHOOK": {
+    "token": "PAGE_ACCESS_TOKEN",
+    "dailyLimit": 100
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+pages.json
+data/
+sim-test/
+cloudflared.exe
+ngrok.exe
